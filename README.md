@@ -7,7 +7,7 @@ Designed and developed TaskFlow, a modern task management application featuring 
 
 TaskFlow is a modern productivity and project management application designed to help users organize, track, and manage tasks through a centralized workspace with an intuitive and responsive user experience.
 
-## Features
+# Features
 
 - Create, edit, and delete tasks
 - Task status and priority management
@@ -24,7 +24,7 @@ TaskFlow is a modern productivity and project management application designed to
 - Responsive design for desktop, tablet, and mobile
 - Smooth animations and interactive UI
 
-## Tech Stack
+# Tech Stack
 
 - Next.js
 - React
@@ -35,9 +35,9 @@ TaskFlow is a modern productivity and project management application designed to
 - Framer Motion
 - Heroicons
 
-## Project Structure
+# Project Structure
 
-```text
+
 src/
 ├── app/
 ├── components/
@@ -45,14 +45,14 @@ src/
 ├── redux/
 ├── styles/
 └── public/
-## Installation
+# Installation
 
-### Prerequisites
+# Prerequisites
 
 - Node.js 18+
 - npm
 
-### Run Locally
+# Run Locally
 
     npm install
 
@@ -88,7 +88,7 @@ Creates the production build.
 
 Runs the production server.
 
-## Application Modules
+# Application Modules
 
 - Dashboard
 - Task Management
@@ -103,7 +103,7 @@ Runs the production server.
 - Authentication
 - Responsive Navigation
 
-## State Management
+# State Management
 
 Redux Toolkit is used to manage:
 
@@ -133,11 +133,8 @@ The application is optimized for:
 - Tablet
 - Mobile
 
-## AI Reference
-
-AI tools were used as a reference and learning resource during development to understand technical concepts, explore possible approaches, troubleshoot issues, and improve familiarity with the technologies used in the project.
-
-## Future Improvements
+#
+# Future Improvements
 
 - Real-time collaboration
 - Persistent database integration
@@ -148,6 +145,6 @@ AI tools were used as a reference and learning resource during development to un
 - Advanced project analytics
 - Real-time task updates
 
-## License
 
-This project is intended for educational and internship assessment purposes.
+
+
