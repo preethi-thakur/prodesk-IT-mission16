@@ -38,13 +38,18 @@ TaskFlow is a modern productivity and project management application designed to
 # Project Structure
 
 
-src/
-├── app/
-├── components/
-├── lib/
-├── redux/
-├── styles/
-└── public/
+TaskFlow/
+├── src/
+│   ├── app/
+│   ├── components/
+│   ├── lib/
+│   ├── redux/
+│   └── styles/
+├── public/
+├── package.json
+├── next.config.js
+├── postcss.config.js
+
 # Installation
 
 # Prerequisites
