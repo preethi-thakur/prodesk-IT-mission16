@@ -45,10 +45,12 @@ TaskFlow/
 │   ├── lib/
 │   ├── redux/
 │   └── styles/
-├── public/
+
 ├── package.json
-├── next.config.js
-├── postcss.config.js
+├── package-lock.json
+├── postcss.config.mjs
+├── jsconfig.json
+
 
 # Installation
 
